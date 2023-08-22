@@ -12,7 +12,7 @@
 # Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Albert2707&theme=dracula)
 
-# Spotify tracks
+# Recently Played
 ![](https://spotify-recently-played-readme.vercel.app/api?user=82nihz4bc830hxh5o2pijv3kd)<br/>
 
 
