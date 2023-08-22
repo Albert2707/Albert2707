@@ -3,7 +3,7 @@
 
 
 # Streak Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&hide=contribs,prs)<br/>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert2707&hide=contribs,prs)<br/>
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dark)](https://git.io/streak-stats)<br/>
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Albert2707)](https://github.com/anuraghazra/github-readme-stats)<br/>
 
