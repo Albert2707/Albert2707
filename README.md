@@ -9,6 +9,10 @@
 # Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&langs_count=8)
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+
 # Spotify tracks
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=82nihz4bc830hxh5o2pijv3kd)<br/>
 
