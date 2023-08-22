@@ -3,17 +3,17 @@
 
 
 # Streak Stats
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dracula&border_radius=5)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)<br/>
+[![](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dracula&border_radius=5)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)<br/>
 
 
 # Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert2707&layout=donut)](https://github.com/Albert2707/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert2707&layout=donut)](https://github.com/Albert2707/github-readme-stats)
 
 # Thropies
-![](https://github-profile-trophy.vercel.app/?username=ryo-ma&column=-1)
+![]([https://github-profile-trophy.vercel.app/?username=Albert2707&column=-1](https://github-profile-trophy.vercel.app/?username=Albert2707&theme=dracula))
 
 # Spotify tracks
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=82nihz4bc830hxh5o2pijv3kd)<br/>
+![](https://spotify-recently-played-readme.vercel.app/api?user=82nihz4bc830hxh5o2pijv3kd)<br/>
 
 
 <!--
