@@ -1,5 +1,5 @@
 <img  src="https://github.com/Albert2707/Albert2707/blob/main/header.png" />
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dark&border_radius=4.6)](https://git.io/streak-stats)
+![](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dark&border_radius=4.6)
 <!--
 **Albert2707/Albert2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
