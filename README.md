@@ -5,6 +5,10 @@
 # Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dracula&border_radius=5)](https://git.io/streak-stats)![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)<br/>
 
+
+# Languages
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
 # Spotify tracks
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=82nihz4bc830hxh5o2pijv3kd)<br/>
 
