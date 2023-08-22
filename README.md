@@ -2,8 +2,8 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=bryanbocio&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=bryanbocio&theme=dark&hide_border=false)<br/>
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dark)](https://git.io/streak-stats)
 <!--
 **Albert2707/Albert2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
