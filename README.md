@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-<img  src="https://i.ibb.co/H7NL4Lx/js.png](https://github.com/Albert2707/Albert2707/blob/main/header.png" width="40" height="40" />
+<img  src="https://github.com/Albert2707/Albert2707/blob/main/header.png" width="40" height="40" />
 i'm Albert Joan Agramonte Suero, i'm a software developer.
 <!--
 **Albert2707/Albert2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
