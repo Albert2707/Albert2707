@@ -1,5 +1,5 @@
 <img  src="https://github.com/Albert2707/Albert2707/blob/main/header.png" />
-i'm Albert Joan Agramonte Suero, i'm a software developer.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Albert2707)](https://git.io/streak-stats)
 <!--
 **Albert2707/Albert2707** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
