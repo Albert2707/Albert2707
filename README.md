@@ -7,7 +7,7 @@
 
 
 # Languages
-[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert2707&layout=donut)](https://github.com/Albert2707/github-readme-stats)
+[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert2707&layout=donut&theme=dracula)](https://github.com/Albert2707/github-readme-stats)
 
 # Thropies
 ![](https://github-profile-trophy.vercel.app/?username=Albert2707&theme=dracula)
