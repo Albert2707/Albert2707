@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif" alt="👋 Hi there! I'm (Albert(Joan|nd Agramonte)|https://raymond.li)" title="👋 Hi there! I'm (Albert(Joan|nd Agramonte))"/>
+<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif](https://github.com/Albert2707/Albert2707/blob/main/banner(2).png" alt=""/>
 
 
 # Tech
