@@ -5,9 +5,6 @@
 # Streak Stats
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dark)](https://git.io/streak-stats)<br/>
 
-# Badges 
-![badges1](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/6n8fc8zw8pawxveffitx.png)<br/>
-
 # Spotify tracks
 ![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=82nihz4bc830hxh5o2pijv3kd)<br/>
 
