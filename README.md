@@ -1,6 +1,6 @@
 <img  src="https://github.com/Albert2707/Albert2707/blob/main/header.png" />
 
-<div align="center">
+<div align="start">
 
 # Tech
 ![Firefox](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)
