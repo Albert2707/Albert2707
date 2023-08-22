@@ -9,11 +9,10 @@
   
 # Streak Stats
   
-[![](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dracula&border_radius=5)](https://git.io/streak-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert2707&hide=TeX,Java&langs_count=3&theme=dracula)](https://github.com/Albert2707/github-readme-stats)
 
-
+[![](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dracula&border_radius=5)](https://git.io/streak-stats)
 <br/>
 
 # Trophies
