@@ -1,7 +1,7 @@
 <img  src="https://github.com/Albert2707/Albert2707/blob/main/header.png" />
 
 
-# GitHub Stats:
+
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dark)](https://git.io/streak-stats)
 <!--
