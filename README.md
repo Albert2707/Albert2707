@@ -1,6 +1,3 @@
-### Hi there 👋
-
-
 <img  src="https://github.com/Albert2707/Albert2707/blob/main/header.png" />
 i'm Albert Joan Agramonte Suero, i'm a software developer.
 <!--
