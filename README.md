@@ -10,7 +10,7 @@
 [![](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert2707&layout=donut)](https://github.com/Albert2707/github-readme-stats)
 
 # Thropies
-![]([https://github-profile-trophy.vercel.app/?username=Albert2707&column=-1](https://github-profile-trophy.vercel.app/?username=Albert2707&theme=dracula))
+![](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=dracula)
 
 # Spotify tracks
 ![](https://spotify-recently-played-readme.vercel.app/api?user=82nihz4bc830hxh5o2pijv3kd)<br/>
