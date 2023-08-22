@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/Raymo111/Raymo111/master/intro.gif](https://github.com/Albert2707/Albert2707/blob/main/banner(2).png" alt=""/>
+<img src="https://github.com/Albert2707/Albert2707/blob/main/banner(2).png" alt=""/>
 
 
 # Tech
