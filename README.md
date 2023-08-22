@@ -1,6 +1,6 @@
 <img  src="https://github.com/Albert2707/Albert2707/blob/main/header.png" />
 
-
+<div align="center">
 
 # Streak Stats
 [![](http://github-readme-streak-stats.herokuapp.com?user=Albert2707&theme=dracula&border_radius=5)](https://git.io/streak-stats)[![](https://github-readme-stats.vercel.app/api/top-langs/?username=Albert2707&layout=donut&theme=dracula)](https://github.com/Albert2707/github-readme-stats)
@@ -26,3 +26,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+</div>
