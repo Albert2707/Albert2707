@@ -1,6 +1,6 @@
 <img src="https://github.com/Albert2707/Albert2707/blob/main/banner(2).png" alt=""/>
 
-# 👨🏾‍💻🇩🇴About me
+# 👨🏾‍💻About me
 
 Software developer with 2 years of experience specializing in JavaScript. Passionate about problem solving and working closely with teammates to create innovative solutions. My ability to quickly learn new technologies allows me to adapt effectively to changing development challenges. Committed to constant professional growth and excited to contribute to project success through my development experience and collaborative approach.
 
