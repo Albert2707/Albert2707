@@ -21,8 +21,6 @@ Software developer with 2 years of experience specializing in JavaScript. Passio
 # 🏆Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Albert2707&theme=dracula)
 
-# 🎧Recently Played
-![](https://spotify-recently-played-readme.vercel.app/api?user=82nihz4bc830hxh5o2pijv3kd)<br/>
 
 # 💬Quote
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)](https://github.com/piyushsuthar/github-readme-quotes)
