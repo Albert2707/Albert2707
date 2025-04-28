@@ -1,4 +1,5 @@
 <img src="https://github.com/Albert2707/Albert2707/blob/main/banner(2).png" alt=""/>
+<img src="https://i.ibb.co/JwX706Fm/octocat-1745870621317.png" width="200" height="200" alt="GitHub Octocat"/>
 
 # 👨🏾‍💻About me
 
